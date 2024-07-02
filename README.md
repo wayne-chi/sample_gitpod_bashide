@@ -10,3 +10,7 @@ you can rapidly start building projects without the stress of system configurati
 - click the [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/wayne-chi/sample_gitpod_bashide)
 - edit the yml file if you need further installations.
 - enjoy building your project.
+
+
+## stepback
+- for running on gitpod you may change the locations of the files 
